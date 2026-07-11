@@ -161,7 +161,9 @@ if st.session_state.form_submitted:
         data=report,
         file_name="report.txt",
         icon=":material/download:",
+        key="unique_report_download_btn"  # 👈 Add this exact unique key line!
     )
+
     
     # 💡 Your Unique Section (Now indented inside the active results view):
     st.markdown("---")
