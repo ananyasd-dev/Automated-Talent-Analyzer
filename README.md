@@ -1,7 +1,7 @@
 # Automated Talent Analyzer 📝
 The **Automated Talent Analyzer** is an intelligent web-based platform designed to help job seekers evaluate and enhance their resumes by comparing them directly against specific job descriptions. Leveraging advanced AI models, this tool simulates how Applicant Tracking Systems (ATS) and recruiters assess your resume for relevance, alignment, and suitability for a role. 
 
-🚀 **[Click Here to View the Live Live Application!](https://streamlit.app)**
+🚀 **[Click Here to View the Live Application!](https://automated-talent-analyzer-52wtvwmcjvgazfvsaqmpkj.streamlit.app/)**
 
 ## 🔍 Key Engineering Features
 ### 1. Resume Text Extraction
